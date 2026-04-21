@@ -1,2 +1,2 @@
 welcome to cts
-x=7
+x=5
